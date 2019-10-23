@@ -1,4 +1,4 @@
-# ДЗ: Проектирование
+# Проектирование
 
 https://www.kfc.ru/foodorder/category/1
 
